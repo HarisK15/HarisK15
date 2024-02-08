@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Haris</h1>
-<h3 align="center">A passionate developer from the UK currently attending King's College London studying CS</h3>
+<h3 align="center">A passionate developer from the UK currently attending King's College London studying Computer Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harisk15&label=Profile%20views&color=0e75b6&style=flat" alt="harisk15" /> </p>
 
-- 🔭 I’m currently working on **some Java and Python projects**
+- 🔭 I’m currently working on **some Js projects**
 
-- 🌱 I’m currently learning **Django and react**
+- 🌱 I’m currently learning **Javascript and the MERN stack**
 
 - 📫 How to reach me **https://www.linkedin.com/in/haris-k-cvlinked**
 
-- ⚡ Fun hobbies: **I enjoy Travelling the world and Muay Thai**
+- ⚡ Fun hobbies: **I enjoy Travelling the world and training Muay Thai**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
