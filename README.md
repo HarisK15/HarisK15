@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harisk15&label=Profile%20views&color=0e75b6&style=flat" alt="harisk15" /> </p>
 
-- 🔭 I’m currently working on **some Javascript projects**
+- 🔭 I’m currently working on **some Java projects**
 
-- 🌱 I’m currently learning **Javascript and the MERN stack**
+- 🌱 I’m currently learning **C++**
 
-- 📫 How to reach me **https://www.linkedin.com/in/haris-k-cvlinked**
+- 📫 How to reach me **www.linkedin.com/in/haris-k-**
 
 - ⚡ Fun hobbies: **I enjoy Travelling the world and training Muay Thai**
 
