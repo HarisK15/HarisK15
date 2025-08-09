@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Haris</h1>
-<h3 align="center">A passionate developer from the UK currently studying Computer Science</h3>
+<h3 align="center">King's College London Computer Science graduate with a 2.1 | Aspiring Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harisk15&label=Profile%20views&color=0e75b6&style=flat" alt="harisk15" /> </p>
 
